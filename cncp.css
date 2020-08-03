@@ -1,0 +1,101 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+.cncp{
+    position: relative;
+    background-color: gainsboro;
+    width: 1500px;
+    height: 900px;
+}
+
+.a{
+    position: relative;
+    color: dimgrey;
+    font-weight: bold;
+    float: left;
+    left: 40%;
+    top: 80px;
+}
+
+.b{
+    position: relative;
+    color: maroon;
+    float: left;
+    left: 4%;
+    top: 175px;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.c{
+    position: relative;
+    color: maroon;
+    float: left;
+    left: -5.2%;
+    top: 205px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.d{
+    position: relative;
+    color: grey;
+    float: left;
+    left: -22.3%;
+    top: 250px;
+    font-size: 14px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.img1{
+    position: relative;
+    width: 370px;
+    height: 250px;
+    float: left;
+    left: 103%;
+    top: -205px;
+}
+
+.e{
+    position: relative;
+    color: maroon;
+    float: right;
+    right: 38%;
+    top: 525px;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.f{
+    position: relative;
+    color: maroon;
+    float: right;
+    right: 22.2%;
+    top: 555px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.g{
+    position: relative;
+    color: grey;
+    float: right;
+    right: -5.7%;
+    top: -300px;
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.img2{
+    position: relative;
+    width: 370px;
+    height: 250px;
+    float: left;
+    left: -112%;
+    top: -215px;
+
+}
